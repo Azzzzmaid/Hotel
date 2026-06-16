@@ -1,2 +1,2 @@
 # Hotel
-Proyecto final del primer semestre de mi carrera
+Este proyecto es la simulación de un manejo de reserva de un hotel
